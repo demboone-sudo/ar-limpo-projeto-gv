@@ -41,6 +41,9 @@ O projeto visa democratizar o acesso a dados ambientais, auxiliando pessoas com 
 101 - 150   Ruim           Evitar esforço pesado ao ar livre.
 151+       Crítico         Permanecer em locais fechados.
 
+   <img width="1366" height="768" alt="Captura de Tela (4)" src="https://github.com/user-attachments/assets/9f812385-c67e-4eb0-8cd1-299cc1e1292e" />
+
+
 
 
 
